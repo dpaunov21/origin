@@ -1,0 +1,9 @@
+                    commit 259ce3a2860e0a40e7c8de7647b81f1a67cd05bb (HEAD -> logging, origin/master, master)
+Author: dejan.paunov@students.finki.ukim.mk <dejan.paunov@students.finki.ukim.mk>Date:   Wed Apr 4 18:34:07 2018 +0200
+
+    modify li.txt
+
+commit 660dee6758fa26b4a82b782c730b0cf18dad67b7
+Author: dejan.paunov@students.finki.ukim.mk <dejan.paunov@students.finki.ukim.mk>Date:   Wed Apr 4 18:32:00 2018 +0200
+
+    Initial commit
